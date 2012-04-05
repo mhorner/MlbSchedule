@@ -1,0 +1,4 @@
+[{teamName: 'Brewers', city: 'Milwaukee'},
+ {teamName: 'Cubs', city: 'Chicago'},
+ {teamName: 'Braves', city: 'Atlanta'},
+ {teamName: 'Tigers', city: 'Detroit'}]

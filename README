@@ -1,0 +1,12 @@
+/***
+ *
+ * Author: Matt Horner
+ * 
+ * Application Description
+ * 
+ * Sencha Touch based application to show information regarding the MLB.
+ * 
+ * Libraries Used:
+ * Sencha Touch 2.0 (http://www.sencha.com)
+ * yepnope (http://yepnopejs.com)
+ */
