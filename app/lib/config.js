@@ -12,6 +12,7 @@ mHorner.js = {
        'store/Team.js',
        /* controllers */
        'controller/Navigation.js',
-       'controller/MlbSchedule.js'
+       'controller/MlbSchedule.js',
+       'app.js'
    ]
 };

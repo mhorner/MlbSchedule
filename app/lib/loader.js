@@ -35,7 +35,3 @@ yepnope([
         }
     }
 ]);
-
-yepnope({
-        load: mHorner.js.prefix + 'app.js' + getAntiCachingStamp()
-});
