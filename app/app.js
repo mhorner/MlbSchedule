@@ -1,6 +1,7 @@
 Ext.application({
     name: 'mHorner.mlb',
     models: ['mHorner.mlb.model.Team'],
+    stores: ['mHorner.mlb.store.Team'],
     controllers: ["mHorner.mlb.controller.MlbSchedule"],
     viewport: {autoMaximize: true},
     
