@@ -10,11 +10,7 @@ Ext.application({
             items: [{
                 title: 'MLB',
                 items: [{
-                    xtype: 'list',
-                    store: 'Team',
-                    ui: 'round',
-                    onItemDisclosure: true,
-                    itemTpl: "{teamName}"
+                    xtype: 'teamList'
                 }]
             }]
         }));

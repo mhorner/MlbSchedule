@@ -1,9 +1,11 @@
 mHorner.enableCaching = false; // false - stamps will be used.
 mHorner.stampOverride = 9;
-//mHorner.stampOverride = null;
+mHorner.stampOverride = null;
 mHorner.js = {
     prefix: 'app/',
     files: [
+        /* views */
+        'view/TeamList.js',
         /* models */
         'model/ChildController.js',
         'model/Team.js',
