@@ -1,4 +1,4 @@
-[{teamName: 'Brewers', city: 'Milwaukee', teamRSSUrl: 'mil'},
- {teamName: 'Cubs', city: 'Chicago', teamRSSUrl: 'chc'},
- {teamName: 'Braves', city: 'Atlanta', teamRSSUrl: 'atl'},
- {teamName: 'Tigers', city: 'Detroit', teamRSSUrl: 'det'}]
+[{teamName: 'Brewers', city: 'Milwaukee'},
+ {teamName: 'Cubs', city: 'Chicago'},
+ {teamName: 'Braves', city: 'Atlanta'},
+ {teamName: 'Tigers', city: 'Detroit'}]

@@ -1,6 +1,6 @@
 mHorner.enableCaching = false; // false - stamps will be used.
-mHorner.stampOverride = 10;
-//mHorner.stampOverride = null;
+mHorner.stampOverride = 9;
+mHorner.stampOverride = null;
 mHorner.js = {
     prefix: 'app/',
     files: [
