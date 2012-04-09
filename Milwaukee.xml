@@ -1,0 +1,211 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/yrss.xsl" type="text/xsl" media="screen"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <ttl>10</ttl>
+    <copyright>Copyright (c) 2012 Yahoo!, Inc. All rights reserved.</copyright>
+    <language>en-us</language>
+    <image>
+      <width>126</width>
+      <height>15</height>
+      <link>http://sports.yahoo.com</link>
+      <title>Yahoo! Sports</title>
+      <url>http://l.yimg.com/a/i/us/sp/b/ysp_logo_rss.gif</url>
+    </image>
+    <description>Latest news and information about the Milwaukee Brewers.</description>
+    <title>Yahoo! Sports - MLB - Milwaukee Brewers News</title>
+    <link>http://sports.yahoo.com/mlb/teams/mil</link>
+    <item>
+      <title>Saturday's National League Capsules (PA SportsTicker)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/mlb/SIG=11ma5k0dp/*http%3A//sports.yahoo.com/mlb/news?slug=txnlcapsules</link>
+      <description>Adam LaRoche homered and matched a career high with four hits, and the Washington Nationals again rallied late against Kerry Wood and Carlos Marmol, scoring five runs in the eighth to beat the Chicago Cubs 7-4 on Sunday. </description>
+      <pubDate>Sat, 07 Apr 2012 22:14:12 PDT</pubDate>
+      <category>mlb</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,st:20050301:mlb,article,txnlcapsules:1</guid>
+    </item>
+    <item>
+      <title>Wainwright returns, Cardinals fall to Brewers 6-0 (AP)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/mlb/SIG=11m2sopo8/*http%3A//sports.yahoo.com/mlb/news?slug=ap-cardinals</link>
+      <description>Adam Wainwright walked away with confidence after his long-awaited return to the mound in a game that counts, even if he couldn't deliver a win for the St. Louis Cardinals. After missing all of last season because of elbow surgery, Wainwright went 5 2-3 innings on Saturday, giving up four hits and three runs with a walk and six strikeouts in a 6-0 loss to the Milwaukee Brewers.</description>
+      <pubDate>Sat, 07 Apr 2012 18:07:28 PDT</pubDate>
+      <category>mlb</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,ap:20050301:mlb,article,ap-cardinals:1</guid>
+    </item>
+    <item>
+      <title>Hart homers twice, Brewers beat Cardinals 6-0 (AP)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/mlb/SIG=11jo9pma1/*http%3A//sports.yahoo.com/mlb/recap?gid=320407108</link>
+      <description>A year ago, the Milwaukee Brewers had to get by without Zack Greinke or Corey Hart early in the season because of injuries. The importance of having both players healthy right away certainly showed on Saturday. Hart homered twice, Greinke pitched four-hit ball for seven innings and the Brewers beat the St.</description>
+      <pubDate>Sat, 07 Apr 2012 17:45:27 PDT</pubDate>
+      <category>mlb</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,ap:20050301:mlb,article,ap-320407108.stlmil.recap:1</guid>
+    </item>
+    <item>
+      <title>Brewers' Uecker back on air after son's death (AP)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/mlb/SIG=11rpmraf9/*http%3A//sports.yahoo.com/mlb/news?slug=ap-brewers-uecker</link>
+      <description>Milwaukee Brewers broadcaster Bob Uecker was back at the ballpark Saturday, one day after the death of his son. Uecker was in the dugout before Saturday's game against the St. Louis Cardinals, then went on the air to perform his usual duties as the team's radio broadcaster. He received well wishes from several players and staff members.</description>
+      <pubDate>Sat, 07 Apr 2012 13:29:23 PDT</pubDate>
+      <category>mlb</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,ap:20050301:mlb,article,ap-brewers-uecker:1</guid>
+    </item>
+    <item>
+      <title>Brewers Team Report (Yahoo! Sports)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/mlb/SIG=122r3vn88/*http%3A//sports.yahoo.com/mlb/news?slug=teamreports-2012-mlb-mil</link>
+      <description> &lt;p&gt;Sometimes, players and ballclubs decide not to negotiate contract extensions after Opening Day. Brewers general manager Doug Melvin said that would not be the case with right-hander Zack Greinke.&lt;/p&gt;
+&lt;p&gt;Melvin said he spoke Thursday with Greinke's new agent, Casey Close, and planned to talk again on Monday. The Brewers are trying to work out an extension with Greinke, who can be a free agent after the season.&lt;/p&gt;
+&lt;p&gt;"Sometimes players say they want to focus on the season and that's fine,"  Melvin said. "I respect that. But that doesn't mean the GM and the agent won't talk behind the scenes. We want him to go out and have a big year."&lt;/p&gt; &lt;p&gt;With the Brewers' payroll at $100 million for the first time in club history, the Brewers might have to get creative to work out a deal with...</description>
+      <pubDate>Sat, 07 Apr 2012 03:01:17 PDT</pubDate>
+      <category>mlb</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,sportsxchange:20080101:mlb,article,teamreports-2012-mlb-mil:1</guid>
+    </item>
+    <item>
+      <title>Tailgating quandary as Brewers open on Good Friday (AP)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/mlb/SIG=12b3pmo11/*http%3A//sports.yahoo.com/mlb/news?slug=ap-catholictailgaters-nobratwurst</link>
+      <description>A Good Friday home opener posed a spiritual dilemma for some Catholic baseball fans in Milwaukee, who had to decide whether to abstain from eating meat as their religion dictates or to indulge in one of Brewers' fans most cherished traditions. Brats and burgers fresh off the grill are tailgate staples at plenty of stadiums.</description>
+      <pubDate>Fri, 06 Apr 2012 20:29:33 PDT</pubDate>
+      <category>mlb</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,ap:20050301:mlb,article,ap-catholictailgaters-nobratwurst:1</guid>
+    </item>
+    <item>
+      <title>Gallardo tagged for 4 HRs in 11-5 loss to Cards (AP)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/mlb/SIG=11kaq8r6h/*http%3A//sports.yahoo.com/mlb/news?slug=ap-brewers</link>
+      <description>Milwaukee Brewers manager Ron Roenicke certainly didn't expect this when he gave Yovani Gallardo the opening-day start ahead of his other ace, Zack Greinke. Gallardo gave up four home runs and the St. Louis Cardinals spoiled the Brewers' opener with an 11-5 victory on Friday. "Command was a big issue," Gallardo said.</description>
+      <pubDate>Fri, 06 Apr 2012 18:09:31 PDT</pubDate>
+      <category>mlb</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,ap:20050301:mlb,article,ap-brewers:1</guid>
+    </item>
+    <item>
+      <title>Braun out to show he can shake off rough offseason (AP)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/mlb/SIG=11qetm9n6/*http%3A//sports.yahoo.com/mlb/news?slug=ap-brewers-braun</link>
+      <description>For Ryan Braun, winning an appeal of a 50-game suspension was only his first step toward redemption. Now the Milwaukee Brewers slugger is out to show fans that he can shake off what became a tumultuous offseason after a failed drug test that tarnished his reputation, and regain the form that made him the NL's MVP last season.</description>
+      <pubDate>Fri, 06 Apr 2012 18:03:31 PDT</pubDate>
+      <category>mlb</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,ap:20050301:mlb,article,ap-brewers-braun:1</guid>
+    </item>
+    <item>
+      <title>Cards hit 4 HRs off Gallardo, pound Brewers 11-5 (AP)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/mlb/SIG=11jhs39hi/*http%3A//sports.yahoo.com/mlb/recap?gid=320406108</link>
+      <description>The St. Louis Cardinals aren't counting on one single player to replace Albert Pujols. And when four different players hit home runs off Yovani Gallardo, it certainly looks like a team-wide approach to making up for Pujols' departure just might work for the defending champions. David Freese hit a two-run drive and Yadier Molina, Carlos Beltran and Matt Holliday hit solo shots off Gallardo,...</description>
+      <pubDate>Fri, 06 Apr 2012 17:47:28 PDT</pubDate>
+      <category>mlb</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,ap:20050301:mlb,article,ap-320406108.stlmil.recap:1</guid>
+    </item>
+    <item>
+      <title>The 10 best things about being a Nationals fan (Big League Stew)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/mlb/SIG=137t34rdi/*http%3A//sports.yahoo.com/blogs/mlb-big-league-stew/10-best-things-being-nationals-fan-182133888.html</link>
+      <description>
+ The request we're sending to bloggers of all 30 teams this spring is a simple one: What are the 10 best things about being a fan of your favorite team? What features of the franchise have you excited for opening day and what keeps you coming back year after year? 
+ As we near the end of our little experiment, we're glad to hear that so many of you are enjoying the ride. Up next is our good friend Cathy Taylor , aka " Miss Chatter ." 
+ 1. Playoffs? Baseball pundits nationwide have been murmuring this spring that the Nats may have a chance to make a run at the playoffs, marking the first time positive buzz has surrounded the team outside its local market since the inaugural dream season of 2005. Nats fans' heady sense of optimism each previous spring has been rapidly dashed shortly into the regular season, so most are holding their breath and attempting to keep from popping the champagne prematurely, but it's hard not to get excited. With somewhat weakened division rivals (except those darn Marlins who snapped everyone up during the off-season) and a highly-promising pitching staff, who knows? Maybe next year is here, after all.&#xA0;</description>
+      <pubDate>Fri, 06 Apr 2012 11:21:33 PDT</pubDate>
+      <category>mlb</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,lego:19780928:top,article,2375618c-2429-3d34-8aa2-6cb7d64faa04-l:1</guid>
+    </item>
+    <item>
+      <title>Rest of baseball catching up with big spenders (PA SportsTicker)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/mlb/SIG=11v04kkf6/*http%3A//sports.yahoo.com/mlb/news?slug=txmajorleaguesalaries</link>
+      <description>By RONALD BLUM AP Sports Writer </description>
+      <pubDate>Fri, 06 Apr 2012 01:36:55 PDT</pubDate>
+      <category>mlb</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,st:20050301:mlb,article,txmajorleaguesalaries:1</guid>
+    </item>
+    <item>
+      <title>Milwaukee Brewers 2012 Schedule by Series (Yahoo! Contributor Network)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/mlb/SIG=11ms3ip51/*http%3A//sports.yahoo.com/mlb/news?slug=ycn-11104018</link>
+      <description>The 2012 schedule for the Milwaukee Brewers consists of 52 different series ranging from two to four games long. From games against National League Central division foes to games against the American League in interleague play, the Brewers will take part in plenty of series during...</description>
+      <pubDate>Thu, 05 Apr 2012 21:30:00 PDT</pubDate>
+      <category>mlb</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,ac:20100802:mlb,article,ycn-11104018:1</guid>
+    </item>
+    <item>
+      <title>A Look at the Infielders on the Milwaukee Brewers' Opening Day Roster for 2012:  Fan's View (Yahoo! Contributor Network)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/mlb/SIG=11mjfgb89/*http%3A//sports.yahoo.com/mlb/news?slug=ycn-11201934</link>
+      <description>The Milwaukee Brewers open the 2012 baseball season at Miller Park on April 6th with a retooled infield. First baseman Prince Fielder, shortstop Yuniesky Betancourt, and third baseman Casey McGehee are gone. Second baseman Rickie Weeks is the only returning starter, and there is an...</description>
+      <pubDate>Thu, 05 Apr 2012 19:57:00 PDT</pubDate>
+      <category>mlb</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,ac:20100802:mlb,article,ycn-11201934:1</guid>
+    </item>
+    <item>
+      <title>Faces change, stakes the same for Brewers, Cards (AP)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/mlb/SIG=124u4n432/*http%3A//sports.yahoo.com/mlb/news?slug=ap-cardinals-brewersopener</link>
+      <description>During the run-up to last year's NL championship series, the St. Louis Cardinals and Milwaukee Brewers openly acknowledged something most people already knew: The two division rivals didn't like each other very much. The Cardinals went on to earn ultimate bragging rights in one of baseball's most spirited rivalries last season, knocking the Brewers out of the playoffs and going on to...</description>
+      <pubDate>Thu, 05 Apr 2012 17:27:33 PDT</pubDate>
+      <category>mlb</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,ap:20050301:mlb,article,ap-cardinals-brewersopener:1</guid>
+    </item>
+    <item>
+      <title>Santana looks strong in Mets' Opening Day victory (Yahoo! Sports)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/mlb/SIG=13iudkrlf/*http%3A//sports.yahoo.com/mlb/news?slug=sportsxchange-000632333_santana-looks-strong-in-mets-opening-day-victory</link>
+      <description>On a day when the hitters in Citi Field were eager to test the newly shortened fences, the Atlanta Braves and New York Mets pitchers barely gave them the chance. Mets ace Johan Santana returned with a strong performance in his first start since 2010, and New York nudged a run...</description>
+      <pubDate>Thu, 05 Apr 2012 14:10:17 PDT</pubDate>
+      <category>mlb</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,sportsxchange:20080101:mlb,article,sportsxchange-000632333_santana-looks-strong-in-mets-opening-day-victory:1</guid>
+    </item>
+    <item>
+      <title>Mets 1, Braves 0 (Yahoo! Sports)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/mlb/SIG=12he47og7/*http%3A//sports.yahoo.com/mlb/news?slug=sportsxchange-000632299_mets-1-braves-0</link>
+      <description>By The Sports Xchange NEW YORK -- On a day when the hitters in Citi Field were eager to test the newly shortened fences, the Atlanta Braves and New York Mets pitchers barely gave them the chance. Mets ace Johan Santana returned with a strong performance in his first start since...</description>
+      <pubDate>Thu, 05 Apr 2012 13:25:22 PDT</pubDate>
+      <category>mlb</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,sportsxchange:20080101:mlb,article,sportsxchange-000632299_mets-1-braves-0:1</guid>
+    </item>
+    <item>
+      <title>Power Rankings: The rise of the American League (Yahoo! Sports)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/mlb/SIG=12ccpg1g7/*http%3A//sports.yahoo.com/mlb/news?slug=ti-brown_mlb_power_rankings_040512</link>
+      <description>Early rankings show the American League way ahead in the polls, but a lot can change from now to September.</description>
+      <pubDate>Thu, 05 Apr 2012 10:45:00 PDT</pubDate>
+      <category>mlb</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,yhoo:20050301:mlb,article,ti-brown_mlb_power_rankings_040512:1</guid>
+    </item>
+    <item>
+      <title>A Look at the Milwaukee Brewers Outfielders and Catchers on the Opening Day 2012 Roster:  Fan's View (Yahoo! Contributor Network)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/mlb/SIG=11ml029lk/*http%3A//sports.yahoo.com/mlb/news?slug=ycn-11197890</link>
+      <description>The Brewers lost backup Mark Kotsay but return last season's starting outfield. Here's a look at the outfielders and catchers on the Milwaukee Brewers' Opening Day roster for 2012, and some players at Triple A Nashville who will be likely call ups if needed.</description>
+      <pubDate>Wed, 04 Apr 2012 22:39:00 PDT</pubDate>
+      <category>mlb</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,ac:20100802:mlb,article,ycn-11197890:1</guid>
+    </item>
+    <item>
+      <title>Wednesday's Major League Baseball Capsules (PA SportsTicker)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/mlb/SIG=120ivlugg/*http%3A//sports.yahoo.com/mlb/news?slug=txspringtrainingcapsul</link>
+      <description>Andy Pettitte threw a scoreless inning in his first game since ending a one-year retirement and the New York Yankees beat the New York Mets 8-3 on Wednesday. </description>
+      <pubDate>Wed, 04 Apr 2012 18:40:56 PDT</pubDate>
+      <category>mlb</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,st:20050301:mlb,article,txspringtrainingcapsul:1</guid>
+    </item>
+    <item>
+      <title>Hart HRs in 2nd game back, Brewers lose to D-Backs (AP)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/mlb/SIG=11j6d0lqa/*http%3A//sports.yahoo.com/mlb/recap?gid=320404129</link>
+      <description>Corey Hart homered in his second game back from knee surgery and the Milwaukee Brewers ended spring training with a 14-3 loss to the Arizona Diamondbacks on Wednesday. Diamondbacks shortstop Willie Bloomquist homered, doubled and singled to drive in three runs and stole two bases in the Cactus League finale for the Diamondbacks, held at home ballpark Chase Field.</description>
+      <pubDate>Wed, 04 Apr 2012 17:05:34 PDT</pubDate>
+      <category>mlb</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,ap:20050301:mlb,article,ap-320404129.milari.recap:1</guid>
+    </item>
+    <item>
+      <title>MLB Roundup: Votto signs 12-year deal with Reds; Niese signs with Mets (Yahoo! Sports)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/mlb/SIG=145f4dpvo/*http%3A//sports.yahoo.com/mlb/news?slug=sportsxchange-000631425_mlb-roundup-votto-signs-12year-deal-with-reds-niese-signs-with-mets</link>
+      <description>Joey Votto won his own version of a Mega Millions jackpot Wednesday, agreeing to a 12-year contract extension worth more than $200 million, the team announced. The deal actually is a 10-year extension on top of the two years he had already signed for.</description>
+      <pubDate>Wed, 04 Apr 2012 16:25:09 PDT</pubDate>
+      <category>mlb</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,sportsxchange:20080101:mlb,article,sportsxchange-000631425_mlb-roundup-votto-signs-12year-deal-with-reds-niese-signs-with-mets:1</guid>
+    </item>
+    <item>
+      <title>A Look at the Milwaukee Brewers' Pitchers on the Opening Day 2012 Roster:  Fan's View (Yahoo! Contributor Network)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/mlb/SIG=11mutc67o/*http%3A//sports.yahoo.com/mlb/news?slug=ycn-11195028</link>
+      <description>With Spring Training 2012 coming to a close, the Milwaukee Brewers have set their roster for the opening of the regular season on April 6th at Miller Park against the St. Louis Cardinals. Here's a look at the pitchers who will begin the season with the Brewers as well as a few...</description>
+      <pubDate>Wed, 04 Apr 2012 10:46:00 PDT</pubDate>
+      <category>mlb</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,ac:20100802:mlb,article,ycn-11195028:1</guid>
+    </item>
+    <item>
+      <title>Hart has 2 hits in first spring game (AP)</title>
+      <link>http://us.rd.yahoo.com/sports/rss/mlb/SIG=11ja4o30s/*http%3A//sports.yahoo.com/mlb/recap?gid=320403129</link>
+      <description>Milwaukee Brewers right fielder Cory Hart looks healthy again and expects to play opening day. In his first major league game this spring, Hart went 2 for 3 with a double in the Brewers' 5-3 loss to the Arizona Diamondbacks on Tuesday. On March 6, Hart underwent arthroscopic surgery to repair two cartilage tears in his right knee.</description>
+      <pubDate>Tue, 03 Apr 2012 23:25:46 PDT</pubDate>
+      <category>mlb</category>
+      <guid isPermaLink="false">urn:newsml:sports.yahoo,ap:20050301:mlb,article,ap-320403129.milari.recap:1</guid>
+    </item>
+    <lastBuildDate>Sat, 07 Apr 2012 22:14:12 PDT</lastBuildDate>
+  </channel>
+</rss>
+<!-- fe47.sports.sp2.yahoo.com uncompressed/chunked Sun Apr  8 03:23:27 PDT 2012 -->

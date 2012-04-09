@@ -3,7 +3,8 @@ Ext.define("mHorner.mlb.model.Team", {
     config: {
         fields: [
                  {name: 'teamName'},
-                 {name: 'city'}
+                 {name: 'city'},
+                 {name: 'teamRSSUrl'}
         ]
     }
 });
