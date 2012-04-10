@@ -23,7 +23,8 @@ Ext.define("mHorner.mlb.controller.MlbSchedule", {
     initializeListeners: function() {
         var tList = this.getTeamList();
         
-        tList.on("itemtap", this.drillInOnTeam);
+        /** set the scope correctly and everything works! **/
+        tList.on("itemtap", this.drillInOnTeam, this);
     },
     
     drillInOnTeam: function(dataView, index, target, record, event, options) {
