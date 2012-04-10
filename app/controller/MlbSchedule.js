@@ -23,7 +23,7 @@ Ext.define("mHorner.mlb.controller.MlbSchedule", {
     initializeListeners: function() {
         var tList = this.getTeamList();
         
-        tList.on("itemtap", this.drillInOnTeam);
+        tList.on("itemtap", this.drillInOnTeam, this);
     },
     
     drillInOnTeam: function(dataView, index, target, record, event, options) {
