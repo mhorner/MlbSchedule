@@ -1,8 +1,7 @@
 Ext.define("mHorner.mlb.controller.TeamNews", {
-    extend: 'Ext.application.Controller',
+    extend: 'Ext.app.Controller',
 
-    activate: function() {
+    getView: function() {
         Ext.Msg.alert("activated", "Now what?");
     }
-    
 });
